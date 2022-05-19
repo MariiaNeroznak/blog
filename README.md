@@ -1,3 +1,7 @@
+# Blog
+
+This is a small internship project. It creates the blog article list with authors. Created with React. Fetch information from https://jsonplaceholder.typicode.com. Use Redux as a state container. Use Redux-thunk to make async requests.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
